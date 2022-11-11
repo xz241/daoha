@@ -1,2 +1,0 @@
-# daoha
-save blog image
